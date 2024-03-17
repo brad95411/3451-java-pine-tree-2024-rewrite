@@ -1,0 +1,27 @@
+{
+  "Clients": {
+    "open": true
+  },
+  "Connections": {
+    "open": true
+  },
+  "NetworkTables Settings": {
+    "dsClient": false,
+    "mode": "Client (NT3)",
+    "serverTeam": "10.1.72.2"
+  },
+  "Server": {
+    "Publishers": {
+      "open": true
+    },
+    "Subscribers": {
+      "open": true
+    },
+    "open": true
+  },
+  "transitory": {
+    "xavier": {
+      "open": true
+    }
+  }
+}
