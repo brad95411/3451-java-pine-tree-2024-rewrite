@@ -8,6 +8,11 @@ import edu.wpi.first.wpilibj.TimedRobot;
 import edu.wpi.first.wpilibj2.command.Command;
 import edu.wpi.first.wpilibj2.command.CommandScheduler;
 
+/*
+ * This file is used by Main.java to start your robot program. It is very unlikely
+ * that you would ever need to add or modify anything here, it's best to just
+ * leave this file alone. 
+ */
 public class Robot extends TimedRobot {
   private Command m_autonomousCommand;
 

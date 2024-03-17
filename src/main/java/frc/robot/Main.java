@@ -6,6 +6,12 @@ package frc.robot;
 
 import edu.wpi.first.wpilibj.RobotBase;
 
+/*
+ * THIS FILE SHOULD BE LEFT ALONE
+ * 
+ * Main.java is where your robot program begins, there is never a reason to add or modify anything in
+ * this file!
+ */
 public final class Main {
   private Main() {}
 

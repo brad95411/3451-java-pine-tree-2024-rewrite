@@ -26,4 +26,7 @@ public class Constants {
     public static final int kHeadRollersOutButton = 4; //limited to 40$ and inverted
     public static final int kShifterHighButton = 10;
     public static final int kShifterLowButton = 9;
+
+    public static final int kDriverUSB = 0;
+    public static final int kSecondaryUSB = 1;
 }
