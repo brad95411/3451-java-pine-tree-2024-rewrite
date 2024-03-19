@@ -10,6 +10,12 @@ import frc.robot.Constants;
 /*
  * YOU SHOULD TAKE A LOOK AT THE ARM SUBSYSTEM FIRST!
  * It talks about subsystems a little more indepth, as well as DoubleSupplier and Command construction
+ * 
+ * The HeadRollers subsystem is identical to the Arm subsystem, with the exception of
+ * some differences in variable naming, and the actual work this subsystem does. 
+ * 
+ * This subsystem doesn't move an "arm", it makes wheels turn. But fundamentally the 
+ * control of the subsystem is the same. 
  */
 public class HeadRollers extends SubsystemBase {
     private Talon headRollerMotor;

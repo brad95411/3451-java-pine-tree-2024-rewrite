@@ -10,6 +10,10 @@ import frc.robot.Constants;
 /*
  * YOU SHOULD TAKE A LOOK AT THE ARM SUBSYSTEM FIRST!
  * It talks about subsystems a little more indepth, as well as DoubleSupplier and Command construction
+ * 
+ * The HeadPivot subsystem is identical to the Arm subsystem, with the exception 
+ * of some differences in variable naming. You should look at the Arm subsystem for 
+ * an explanation of how all this works. 
  */
 public class HeadPivot extends SubsystemBase {
     private Talon headPivotMotor;
