@@ -12,6 +12,13 @@ import edu.wpi.first.wpilibj2.command.Command;
 import edu.wpi.first.wpilibj2.command.SubsystemBase;
 import frc.robot.Constants;
 
+/*
+ * YOU SHOULD TAKE A LOOK AT THE ARM SUBSYSTEM FIRST!
+ * It talks about subsystems a little more indepth, as well as DoubleSupplier and Command construction
+ * 
+ * THIS IS BY FAR THE MOST COMPLICATED SUBSYSTEM!
+ * It would be best to take a look at the other subsystems first before reading this one.
+ */
 public class LeadScrew extends SubsystemBase {
     public enum ShifterState {
         HIGH,

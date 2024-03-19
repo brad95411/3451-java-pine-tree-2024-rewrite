@@ -8,6 +8,10 @@ import edu.wpi.first.wpilibj2.command.Command;
 import edu.wpi.first.wpilibj2.command.SubsystemBase;
 import frc.robot.Constants;
 
+/*
+ * YOU SHOULD TAKE A LOOK AT THE ARM SUBSYSTEM FIRST!
+ * It talks about subsystems a little more indepth, as well as DoubleSupplier and Command construction
+ */
 public class Drivetrain extends SubsystemBase {
     private Talon frontLeft;
     private Talon frontRight;
